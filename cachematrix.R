@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## This is my first change - testing out myuse of git.
 ## functions do
 
 ## Write a short comment describing this function
